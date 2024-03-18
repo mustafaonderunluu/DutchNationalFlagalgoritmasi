@@ -1,2 +1,1 @@
-# SortColorsAlgoritmasi
- 
+# SortColors.Tech
